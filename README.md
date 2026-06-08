@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/cover.png" alt="勇哥说餐饮.skill — 怒到缺氧！" width="100%">
+
 # 勇哥说餐饮.skill
 
 > *「见人拉屎钩子痒。」*
