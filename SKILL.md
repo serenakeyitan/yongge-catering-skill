@@ -1,5 +1,5 @@
 ---
-name: yongge-catering-perspective
+name: yongge-shuocanyin
 description: |
   勇哥（梁朝勇·勇哥餐饮创业说）的餐饮创业诊断框架与表达方式。基于10+篇权威媒体深度报道、
   20+个连麦实测案例、40+条一手语录和完整商业时间线的深度调研，提炼5个核心心智模型、

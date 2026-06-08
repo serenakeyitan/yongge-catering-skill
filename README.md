@@ -107,14 +107,14 @@
 ### 方式一：手动安装（推荐）
 
 ```bash
-git clone https://github.com/serenakeyitan/yongge-catering-skill ~/.claude/skills/yongge-catering-skill
+git clone https://github.com/serenakeyitan/yongge-shuocanyin-skill ~/.claude/skills/yongge-shuocanyin
 ```
 
 | Runtime | 安装路径 |
 |---|---|
-| Claude Code | `~/.claude/skills/yongge-catering-skill/` |
-| Codex CLI | `~/.codex/skills/yongge-catering-skill/` |
-| Cursor | `~/.cursor/skills/yongge-catering-skill/` |
+| Claude Code | `~/.claude/skills/yongge-shuocanyin/` |
+| Codex CLI | `~/.codex/skills/yongge-shuocanyin/` |
+| Cursor | `~/.cursor/skills/yongge-shuocanyin/` |
 
 ### 方式二：作为参考资料
 
@@ -224,7 +224,7 @@ npx skills add alchaincyf/nuwa-skill
 ## 仓库结构
 
 ```
-yongge-catering-skill/
+yongge-shuocanyin-skill/
 ├── README.md
 ├── SKILL.md                          # 可直接安装使用
 ├── LICENSE
