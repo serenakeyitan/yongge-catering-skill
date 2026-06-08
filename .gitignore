@@ -1,2 +1,4 @@
 .DS_Store
-references/sources/transcripts/
+# Raw auto-downloaded subtitle dumps (SRT/VTT) stay local; curated transcripts the docs cite are committed
+references/sources/transcripts/*.srt
+references/sources/transcripts/*.vtt
