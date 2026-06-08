@@ -2,7 +2,7 @@
 
 # 勇哥说餐饮.skill
 
-> *「有的店他开的那一刻已经死了，只是过了几个月才埋。」*
+> *「见人拉屎钩子痒。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io)
