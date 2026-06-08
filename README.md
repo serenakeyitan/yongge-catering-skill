@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/cover.png" alt="勇哥说餐饮.skill — 见人拉屎钩子痒。先算账，再下判断。" width="100%">
-
 # 勇哥说餐饮.skill
 
 > *「见人拉屎钩子痒。」*
